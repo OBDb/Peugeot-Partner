@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Peugeot_Partner"
+
+generations:
+  - name: "Second Generation (B9)"
+    start_year: 2008
+    end_year: 2018
+    description: "A compact van and leisure activity vehicle with 1.6 L gasoline and HDi diesel engines."
+  - name: "Third Generation (K9)"
+    start_year: 2018
+    end_year: null
+    description: "On the EMP2 platform with PureTech, BlueHDi and electric versions."
